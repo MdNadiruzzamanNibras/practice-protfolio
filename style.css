@@ -18,3 +18,5 @@ padding: 5%;}
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
 .padding{padding-left: 100px;}
+.top-banner{background-image: url(images/top-banner.png); 
+}
