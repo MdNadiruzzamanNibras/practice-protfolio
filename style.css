@@ -16,7 +16,8 @@ padding: 5%;}
 .link-add{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 40px;
-.padding{padding-left: 100px;}
-.top-banner{background-image: url(images/top-banner.png); 
+    padding: 10px 40px;}
+
+.top-banner{background-image: url(images/download.jpg); 
+    background-size: cover;
 }
